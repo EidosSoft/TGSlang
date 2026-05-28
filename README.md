@@ -1,6 +1,3 @@
-## `README.md`
-
-```markdown
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/EidosSoft/tgs-lang)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/)
